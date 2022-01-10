@@ -1,9 +1,9 @@
-function Savings() {
+const Savings = () => {
   return (
     <div>
-      I am savings
+      Savings Account Page
     </div>
   );
-}
+};
 
 export default Savings;
